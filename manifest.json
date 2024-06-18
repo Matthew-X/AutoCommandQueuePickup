@@ -1,8 +1,8 @@
 {
-    "name": "AutoCommandQueuePickup",
+    "name": "AutoCommandQueuePickup_fixed",
     "version_number": "1.1.1",
     "website_url": "https://github.com/Matthew-X/AutoCommandQueuePickup/",
-    "description": "Automatically pickups items that drop as well as CommandCubes if the command queue has been populated (Plus ProperSave Integration!)",
+    "description": "Automatically pickups items that drop as well as CommandCubes if the command queue has been populated (Plus ProperSave Integration!) [This is a fork of the original mod with fixes for the 1.10 update]",
     "dependencies": [
         "KingEnderBrine-ProperSave-2.10.0",
         "Rune580-Risk_Of_Options-2.8.0",
